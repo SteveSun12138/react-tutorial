@@ -1,5 +1,4 @@
-# React Tutorial with Hooks
+# React Tutorial 
 
-Rewrite the [official React Tutorial](https://reactjs.org/tutorial/tutorial.html) with Hooks.
+The official React Tutorial (https://reactjs.org/tutorial/tutorial.html) 
 
-This project is bootstrapped from CRA.
